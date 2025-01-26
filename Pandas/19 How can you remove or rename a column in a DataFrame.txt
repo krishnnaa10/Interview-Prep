@@ -1,5 +1,0 @@
-Q. How can you remove or rename a column in a DataFrame?
-
-
-Remove - df.drop(columns=['col_name'])
-Rename - df.rename(columns={'old': 'new'})

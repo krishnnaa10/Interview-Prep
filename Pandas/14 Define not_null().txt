@@ -1,5 +1,0 @@
-Q. Define not_null().
-
-
-It is a method used to check for missing values in a Series or DataFrame. It returns a Boolean 
-value where True indicates that the value is not null and False indicates that the value is null.

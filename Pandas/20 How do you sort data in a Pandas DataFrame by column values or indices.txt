@@ -1,5 +1,0 @@
-Q. How do you sort data in a Pandas DataFrame by column values or indices?
-
-
-By column - df.sort_values('col_name')
-By index  - df.sort_index()

@@ -1,4 +1,0 @@
-Q. How can you load data from a CSV file into a Pandas DataFrame?
-
-
-read_csv() - To load data from a CSV file, We use pd.read_csv('filename.csv').

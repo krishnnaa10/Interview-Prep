@@ -1,8 +1,0 @@
-Q. Define Shallow copy.
-
-
-A shallow copy in Pandas creates a new DataFrame object that references the same underlying data as the
-original DataFrame. This means that any changes made to one DataFrame will also reflect in the other.
-
-                It is like two people sharing the same book. If one person writes something in the book,
-the other person will also see the change.

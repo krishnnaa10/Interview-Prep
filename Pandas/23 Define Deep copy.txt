@@ -1,7 +1,0 @@
-Q. Define Deep copy.
-
-
-A deep copy in Pandas creates a new DataFrame object with its own copy of the data. This means the
-changes made to one DataFrame will not affect the other.
-
-        To create a deep copy of a DataFrame in Pandas, we use the copy() method with `deep=True`.

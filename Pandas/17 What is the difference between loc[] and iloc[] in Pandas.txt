@@ -1,8 +1,0 @@
-Q. What is the difference between loc[] and iloc[] in Pandas?
-
-loc[]: Label-based selection.
-ie.. df.loc['A', 'Name']
-
-iloc[]: Index-based selection.
-ie.. df.iloc[0, 0]
-

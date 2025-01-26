@@ -1,6 +1,0 @@
-Q. How do you handle missing data in Pandas?
-
-
-Check missing data - df.is_null() or df.is_na()
-Fill missing data  - df.fillna(value)
-Drop missing data  - df.dropna()
