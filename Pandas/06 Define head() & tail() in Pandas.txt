@@ -1,0 +1,5 @@
+Q. Define head() & tail() in Pandas.
+
+
+head() : It is used to display the first few rows of a DataFrame.
+tail() : It is used to display the last few rows of a DataFrame.

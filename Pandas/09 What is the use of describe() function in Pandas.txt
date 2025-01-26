@@ -1,0 +1,6 @@
+Q. What is the use of describe() function in Pandas?
+
+
+It is a method used to generate summary statistics of a Dataframe. It provides a quick overview of 
+data, including count, mean, standard deviation, minimun, 25th percentile, 50th percentile (median),
+and maximum values.

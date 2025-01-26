@@ -1,0 +1,4 @@
+Q. What is the use of info() function in Pandas?
+
+
+It provides summary information about the DataFrame, including data types, non-null values, and memory usage.

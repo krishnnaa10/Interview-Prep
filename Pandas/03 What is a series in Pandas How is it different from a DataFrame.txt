@@ -1,0 +1,6 @@
+Q. What is a series in Pandas? How is it different from a DataFrame?
+
+
+Series is a one dimensional array with indexes, similar to a column in spreadsheet or SQL table,
+whereas a DataFrame is two-dimensional, consisting of rows and columns similar to a spreadsheet 
+or SQL table.

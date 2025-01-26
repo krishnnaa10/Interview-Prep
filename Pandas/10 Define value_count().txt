@@ -1,0 +1,4 @@
+Q. Define value_count().
+
+
+It is a method used to count the occurrence of unique values.

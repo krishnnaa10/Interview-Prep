@@ -1,0 +1,4 @@
+Q. How can you install Pandas?
+
+
+pip install pandas

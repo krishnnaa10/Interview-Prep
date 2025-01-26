@@ -1,0 +1,5 @@
+Q. How do you handle duplicate data in a DataFrame?
+
+
+Check - df.duplicated()
+Drop - df.drop_duplicates()

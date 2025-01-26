@@ -1,0 +1,4 @@
+Q. How can you export a Pandas DataFrame to a CSV file?
+
+
+df.to_csv('file.csv')
