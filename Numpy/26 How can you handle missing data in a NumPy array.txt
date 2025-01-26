@@ -1,0 +1,7 @@
+Q. How can you handle missing data in a NumPy array?
+
+
+1. Replace missing values with a specific value using (np.nan)
+2. Remove them
+
+ie.. arr = np.array([1, np.nan, 3])

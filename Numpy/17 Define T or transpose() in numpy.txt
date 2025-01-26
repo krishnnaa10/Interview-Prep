@@ -1,0 +1,7 @@
+Q. Define T or transpose() in numpy.
+
+
+Returns the transpose of an array, which means flipping the dimensions (rows become columns, and columns
+become rows).
+
+ie.. np.array([[1, 2], [3, 4]]).T → [[1, 3], [2, 4]]

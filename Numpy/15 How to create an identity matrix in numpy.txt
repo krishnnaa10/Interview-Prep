@@ -1,0 +1,6 @@
+Q. How to create an identity matrix in numpy?
+
+
+In NumPy, we can create an identity matrix using the eye() or identity() function.
+
+ie.. a = np.identity(3) or, b = np.eye(3)

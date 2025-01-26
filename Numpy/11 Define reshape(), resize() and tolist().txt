@@ -1,0 +1,9 @@
+Q. Define reshape(), resize() and tolist().
+
+
+reshape() - Give a new shape to an array without changing its data.
+
+resize()  - It resize the size of an array. During resizing numpy appends zeros if values at particular
+place is missing.
+
+tolist()  - Coverts a numpy array into a python list.

@@ -1,0 +1,8 @@
+Q. Define empty() and empty_like().
+
+
+empty() : It create an array of a specified shape and dtype but the value will be arbitrary.
+ie.. k1 = np.empty((3,3))
+
+empty_like() : Create a new array with the same shape, data type as an existing array.
+ie.. k2 = np.empty_like(k1)

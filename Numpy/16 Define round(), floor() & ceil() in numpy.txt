@@ -1,0 +1,8 @@
+Q. Define round(), floor() & ceil() in numpy.
+
+
+round(): Rounds to the nearest integer.
+
+floor(): Rounds down to the nearest integer.
+
+ceil(): Rounds up to the nearest integer.

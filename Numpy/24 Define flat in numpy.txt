@@ -1,0 +1,4 @@
+Q. Define flat in numpy.
+
+
+It return a copy of the array collapsed into one dimension.

@@ -1,0 +1,8 @@
+Q. Define sqrt() & power() in numpy.
+
+
+sqrt() : Computes the square root of each element in an array.  
+ie.. np.sqrt([4, 9, 16]) → [2. 3. 4.]
+
+power() : Raises each element in an array to a specified power.  
+ie.. np.power([2, 3, 4], 2) → [4, 9, 16]
