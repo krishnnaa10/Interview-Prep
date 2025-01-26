@@ -1,7 +1,0 @@
-
-Q. Differentiate between flatten() and ravel().
-
-
-There are two kinds of methods to convert a ndarray into a 1D array : flatten() & ravel().
-
-      With the key difference being that is flatten() creates a new copy of the array and new array do not affect the original array while ravel() returns a view of the array and changes made to the new array may affect the original array.

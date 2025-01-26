@@ -1,5 +1,0 @@
-
-Q. Explain the ndarray object in NumPy.
-
-
-The ndarray is an N-dimensional array type in NumPy that defines a collection of items of the same kind.
