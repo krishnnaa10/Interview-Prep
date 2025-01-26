@@ -1,0 +1,4 @@
+Q. How can you load data from a excel file into a Pandas DataFrame?
+
+
+read_excel - To load data from a CSV file, We use pd.read_excel('filename.xlsx', sheet_name='Sheet1').

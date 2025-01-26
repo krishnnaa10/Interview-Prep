@@ -1,0 +1,6 @@
+Q. How do you create a DataFrame in Pandas?
+
+
+import pandas as pd
+data = {'Name': ['Krishna', 'Aditi'], 'Age': [24, 21]}
+df = pd.DataFrame(data)

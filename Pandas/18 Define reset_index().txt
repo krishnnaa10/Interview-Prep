@@ -1,0 +1,12 @@
+Q. Define reset_index().
+
+
+The reset_index() method resets the index of a DataFrame and optionally creates a new default index
+starting from 0.
+
+Key Points:
+
+- By default, the current index is added as a new column.
+- You can drop the old index using drop=True.
+
+ie.. df.reset_index(drop=True, inplace=True)

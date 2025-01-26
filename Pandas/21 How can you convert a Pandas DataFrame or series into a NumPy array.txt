@@ -1,0 +1,4 @@
+Q. How can you convert a Pandas DataFrame or series into a NumPy array?
+
+
+to_numpy() : It is a method used to convert a DataFrame or Series to a NumPy array.
