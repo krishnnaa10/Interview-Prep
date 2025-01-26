@@ -2,4 +2,6 @@
 Q. What is NumPy?
 
 
-NumPy is a powerful Python library for numerical computations. It offers multi-dimensional arrays, mathematical functions, and efficient operations. It's used in data analysis, machine learning, and scientific computing.
+NumPy is a powerful Python library for numerical computations. It offers multi-dimensional arrays, 
+mathematical functions, and efficient operations. It's used in data analysis, machine learning, and
+scientific computing.
