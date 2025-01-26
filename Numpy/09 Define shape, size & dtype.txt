@@ -1,0 +1,9 @@
+
+Q. Define shape, size & dtype.
+
+
+shape -	Return the shape of an array
+
+size  -	Return the total number of elements in the array
+
+dtype -	Return the data type of elements within a NumPy array

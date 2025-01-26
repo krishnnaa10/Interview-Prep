@@ -1,0 +1,10 @@
+
+Q. Write some advantages of NumPy.
+
+
+- It is easy to learn
+- It is easy to use
+- It uses relatively less memory to store data
+- It provides efficient storage
+- Do complex math
+- Broad range of mathematical functions

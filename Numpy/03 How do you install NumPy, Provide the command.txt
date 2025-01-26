@@ -1,0 +1,5 @@
+
+Q. How do you install NumPy ? Provide the command.
+
+
+pip install numpy

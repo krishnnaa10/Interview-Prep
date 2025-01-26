@@ -1,0 +1,15 @@
+
+Q. Define where() in numpy.
+
+
+It is a versatile function that returns the indices of elements in an array that meet a certain condition.
+
+ie..
+
+array([[4, 5, 0],
+       [6, 0, 3],
+       [1, 6, 5]])
+
+--> np.where(k>5)
+
+output : (array([1, 2], array([0, 1])

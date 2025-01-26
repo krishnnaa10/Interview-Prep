@@ -1,0 +1,5 @@
+
+Q. Define count_nonzero() in numpy.
+
+
+It is a function that count the number of non-zero elements in an array.

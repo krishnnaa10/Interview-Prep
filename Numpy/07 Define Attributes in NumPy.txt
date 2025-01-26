@@ -1,0 +1,9 @@
+
+Q. Define Attributes in NumPy.
+
+
+Describe properties
+
+Attributes are properties of a NumPy array that describe its structure, shape, size, and other metadata. They are accessed without parentheses.
+
+ie.. shape, size, dtype, ndim, flags, T, nbytes, itemsize etc..

@@ -1,0 +1,21 @@
+
+Q. Define sum(), mean(), std(), min(), max() & prod() in numpy.
+
+
+sum() -  Computes the sum of all elements in the array.
+         np.sum([1, 2, 3]) → 6
+
+mean() - Computes the average (mean) of all elements in the array.
+         np.mean([1, 2, 3]) → 2.0
+
+std() -  Computes the standard deviation of the array elements.
+         np.std([1, 2, 3]) → 0.816496580927726
+
+min() -  Returns the smallest element in the array.
+         np.min([1, 2, 3]) → 1
+
+max() -  Returns the largest element in the array.
+         np.max([1, 2, 3]) → 3
+ 
+prod() - Computes the product of all elements in the array.
+         np.prod([1, 2, 3]) → 6

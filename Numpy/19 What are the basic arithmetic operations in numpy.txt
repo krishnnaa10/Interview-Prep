@@ -1,0 +1,5 @@
+
+Q. What are the basic arithmetic operations in numpy?
+
+
+Addition (+), Subtraction (-), Multiplication (*), Division (/), Floor Division (//), Modulus (%)

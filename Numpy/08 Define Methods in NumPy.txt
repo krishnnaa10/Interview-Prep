@@ -1,0 +1,9 @@
+
+Q. Define Methods in NumPy.
+
+
+Perform operations or calculations
+
+Methods are functions associated with a NumPy array that allow you to perform operations or calculations. They require parentheses.
+
+ie.. sum(), resize(), reshape(), min(), max(), mean(), flatten(), ravel(), argmax(), argmin() etc..
