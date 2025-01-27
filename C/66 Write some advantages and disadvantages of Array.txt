@@ -1,0 +1,12 @@
+Q. Write some advantages and disadvantages of Array.
+
+
+- Advantages :
+
+  You can easily store multiple data items of the same type under a single name.
+  The array can be multidimensional 2D, 3D, …etc.
+  
+  Disadvantages :
+
+  We have to declare the size of an array in advance.
+  Array size is always fixed, so we cannot increase or decrease memory allocation.

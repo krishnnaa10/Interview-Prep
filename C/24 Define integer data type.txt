@@ -1,0 +1,8 @@
+
+Q. Define integer data type.
+
+
+- An integer type variable can store zero, positive, and negative values without any
+  decimal. The integer data type is represented by the ‘int’ keyword.
+
+    In C language, the integer values are represented by the ‘%d’ format specifier.

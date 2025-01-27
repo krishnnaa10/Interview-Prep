@@ -1,0 +1,11 @@
+Q. Define format specifiers in C ?
+
+
+- Format specifiers define the type of data to be printed on standard output.
+  
+          You need to use format specifiers whether you're printing formatted
+  output with printf() or accepting input with scanf().
+
+  ie.. %d - int
+       %f - float
+       %c - char etc..

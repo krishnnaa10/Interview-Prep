@@ -1,0 +1,10 @@
+Q. Define Arithmetic operators in C ?
+
+
+- The arithmetic operators are the symbols that are used to perform mathematical
+  operations on operands.
+
+  Types-
+  
+  1. Binary : + , - , * , / , %
+  2. Unary  : ++ , --

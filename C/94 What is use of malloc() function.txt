@@ -1,0 +1,5 @@
+Q. What is use of malloc() function?
+
+
+- The full form of malloc is Memory Allocation. It is used to allocate dynamic memory for one
+  dimensional array.

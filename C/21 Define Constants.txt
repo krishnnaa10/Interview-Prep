@@ -1,0 +1,8 @@
+Q. Define Constants ?
+
+
+- An entity whose value doesn't change is called as a constant.
+
+  Types - Integer constant ( 2, -1, 10 )
+          Real constant ( -1.45, 8.09, 3.0 )
+          Character Constant ( 'k', '$', '@' )

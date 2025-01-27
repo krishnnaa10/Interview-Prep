@@ -1,0 +1,6 @@
+Q. What is use of realloc() function?
+
+
+-  The full form of realloc is Reallocate Memory. It is used to dynamically change the memory allocation
+   of a previously allocated memory. In other words, if the memory previously allocated with the help of 
+   malloc() or calloc() is insufficient, realloc() can be used to dynamically re-allocate memory.

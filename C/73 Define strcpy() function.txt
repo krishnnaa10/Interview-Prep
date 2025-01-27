@@ -1,0 +1,4 @@
+Q. Define strcpy() function.
+
+
+- strcpy() function is a C standard library function that copies a string from one location to another.

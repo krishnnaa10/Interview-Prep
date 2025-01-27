@@ -1,0 +1,14 @@
+Q. What is increment operator in C ?
+
+
+- The increment ( ++ ) operator in C are used for incrementing the numeric values by
+  1 respectively.
+
+  Types- 
+  
+  pre-increment : the increment operator is used as the prefix. Also known as prefix increment. 
+  ie.. ++num;
+
+  post-increment : the increment operator is used as the suffix. Also known as postfix increment. 
+  ie.. num++;
+  

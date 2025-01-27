@@ -1,0 +1,6 @@
+Q. Define Enumeration in C.
+
+
+- Enumeration is a user defined data type in C. It consists of integer values, and it provides meaningful
+  names to these values. The use of enum in C makes the program easy to understand and maintain. The enum
+  is defined by using the enum keyword.

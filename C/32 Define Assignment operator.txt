@@ -1,0 +1,6 @@
+Q. Define Assignment operator.
+
+
+- Assignment operators are simply used to assign values to variables.
+
+  ie.. = , += , -= , *= , /= , %= , &= , |= , >>= , <<=

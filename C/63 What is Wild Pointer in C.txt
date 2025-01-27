@@ -1,0 +1,5 @@
+Q. What is Wild Pointer in C?
+
+
+- Uninitialized pointers are called as wild pointers in C which points to random memory location. This
+  wild pointer may lead a program to behave wrongly or to crash.

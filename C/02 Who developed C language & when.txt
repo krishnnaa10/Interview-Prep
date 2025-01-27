@@ -1,0 +1,4 @@
+Q. Who developed C language & when ?
+
+
+- Dennis M Ritchie developed C language in 1972.

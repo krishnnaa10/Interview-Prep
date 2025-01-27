@@ -1,0 +1,9 @@
+Q. Explain Dynamic memory allocation.
+
+
+- Dynamic Memory Allocation(DMA) allows us to allocate memory at run time.
+
+          Generally variable allocates the memory at compile time, for example int a; here, 'a' will 
+  allocate memory at compile time. But in case of Dynamic Memory Allocation, memory allocates at run 
+  time. In C language, there are a lot of library functions (malloc, calloc, or realloc,..) which are
+  used to allocate memory dynamically.

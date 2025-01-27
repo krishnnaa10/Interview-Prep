@@ -1,0 +1,9 @@
+Q. Define variables ?
+
+
+-  Variables are containers for storing data values. A variable is an
+   entity whose value can be change. 
+
+   ie.. a = 1
+        b = 2
+        c = 'k'

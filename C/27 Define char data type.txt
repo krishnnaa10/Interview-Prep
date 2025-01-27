@@ -1,0 +1,7 @@
+Q. Define char data type.
+
+
+- Char is used to store single-character values, including numerical ones. By creating 
+  an array of this character data type, it becomes a string.
+
+    In C language, the char values are represented by the ‘%s’ format specifier.

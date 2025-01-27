@@ -1,0 +1,8 @@
+Q. What are the key features in the C programming language?
+
+
+- It is simple, Portable, fast and efficient.
+  It is a platform-independent language.
+  It is a Procedural Language.
+  It is a General-Purpose Language.
+  It is a Middle-Level Language.

@@ -1,0 +1,4 @@
+Q. Define strlen() function.
+
+
+- The strlen() function in C calculates the length of a given string. It doesn’t count the null character ‘\0’.

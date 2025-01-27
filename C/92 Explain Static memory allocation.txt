@@ -1,0 +1,6 @@
+Q. Explain Static memory allocation.
+
+
+- Compiler allocates the memory for the declared variable at compiler time, it is known as compile time
+  memory allocation or static memory allocation.
+

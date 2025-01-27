@@ -1,0 +1,4 @@
+Q. Define call by value method.
+
+
+- In call by value method, the value of arguments are passed to the function (Formal Parameter).

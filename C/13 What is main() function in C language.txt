@@ -1,0 +1,10 @@
+Q. What is main() function in C language ?
+
+
+- The main function is an integral part of the programming languages such as C, C++, 
+  and Java.
+ 
+         The main function in C is the entry point of a program where the execution of a
+  program starts. It is a user-defined function that is mandatory for the execution of a
+  program because when a C program is executed, the operating system starts executing the
+  statements in the main() function.

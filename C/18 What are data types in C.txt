@@ -1,0 +1,10 @@
+Q. What are data types in C ?
+
+
+- In C programming, data types are declarations for variables. It specifies the type
+  of data that a variable can store such as integer, floating, character, etc.
+
+  There are the following data types in C language- 
+
+  Primary data types  -  int, char, float, double, void
+  Derived data types  -  array, pointer, structure, union, enum

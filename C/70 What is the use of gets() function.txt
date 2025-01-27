@@ -1,0 +1,5 @@
+Q. What is the use of gets() function?
+
+
+- C library facilitates a special function to read a string from a user. This function is represented
+  as gets() function.

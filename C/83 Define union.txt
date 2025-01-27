@@ -1,0 +1,4 @@
+Q. Define union.
+
+
+- Union is a user-defined data type, but unlike structures, they share the same memory location.

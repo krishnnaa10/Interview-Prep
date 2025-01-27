@@ -1,0 +1,8 @@
+Q. Define printf() function.
+
+
+- The printf() function is used for output. It prints the given statement to
+  the console, defined in stdio.h (header file).
+
+  ie.. a = 10
+       printf("%d",a);

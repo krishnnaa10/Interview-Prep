@@ -1,0 +1,4 @@
+Q. Define call by reference method.
+
+
+- In call by reference, the address of the variable is passed to the function as arguments (actual parameter).

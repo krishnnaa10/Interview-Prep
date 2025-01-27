@@ -1,0 +1,10 @@
+Q. Define Relational operators in C ?
+
+
+- Relational operators check the relationship between two of the available operands. In
+  case the relation happens to be true, then it returns to 1. But in case this relation
+  turns out to be false, then it returns to the value 0.
+
+  Relational operators are also called as Comparison operators.
+
+  ie.. == , != , > , < , >= , <=

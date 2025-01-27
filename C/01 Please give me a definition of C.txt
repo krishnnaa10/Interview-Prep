@@ -1,0 +1,7 @@
+Q. Please give me a definition of C ?
+
+
+- C is one of the oldest and finest programming language. C is a general purpose
+  and procedural language that supports structured programming. 
+
+        It was developed by Dennis M Ritchie at AT & T bell labs USA in 1972.

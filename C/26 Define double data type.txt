@@ -1,0 +1,5 @@
+Q. Define double data type.
+
+
+- The double data type is similar to float, but here, you can have up to 10 digits 
+  after the decimal place. It is represented by the ‘double’ keyword.

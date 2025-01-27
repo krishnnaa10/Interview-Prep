@@ -1,0 +1,10 @@
+Q. Define while loop.
+
+
+- A while loop is the most straightforward looping structure. It executes the code until
+  the condition is false.
+
+  ie.. while(n<10){
+          print("%d\n",n);
+          n++;
+       }

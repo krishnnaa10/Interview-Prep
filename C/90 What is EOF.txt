@@ -1,0 +1,8 @@
+Q. What is EOF?
+
+
+- EOF means End of File. It's a sign that the end of a file is reached, and that there will be no data
+  anymore. After we enter the text, if we press CTRL+Z (For Windows), the text terminates. For LINUX and
+  OS X, it's CTRL+D.
+
+ 

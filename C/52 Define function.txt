@@ -1,0 +1,19 @@
+Q. Define function.
+
+
+- Functions are small piece of codes performing a particular task.
+
+       The idea is to put some commonly or repeatedly done tasks done together to
+  make a function so that instead of writing the code again and again for different 
+  inputs, we can call this function.
+
+  In simple words, A function is a block of code that runs only when it is called.
+
+  ie...  void myFunction() {
+            printf("I just got executed!");
+         }
+
+         int main() {
+            myFunction();
+            return 0;
+         }

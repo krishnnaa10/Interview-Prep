@@ -1,0 +1,10 @@
+Q. List of some of C compilers ?
+
+
+- Gcc
+  MinGW
+  Clang
+  TurboC
+  Code::Blocks
+  NetBeans
+  Dev-C++

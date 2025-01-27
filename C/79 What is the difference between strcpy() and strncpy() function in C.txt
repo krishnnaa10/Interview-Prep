@@ -1,0 +1,5 @@
+Q. What is the difference between strcpy() and strncpy() function in C?
+
+
+- strcpy() copies the entire source string to the destination string while strncpy() copies a specified
+  number of characters from the source string to the destination string.

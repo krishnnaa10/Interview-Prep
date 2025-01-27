@@ -1,0 +1,9 @@
+Q. Why C is called Procedural Oriented Language ?
+
+
+- Procedural Oriented Language consists of set of instructions to be followed and
+  divide these instructions into smaller parts known as functions.
+
+           The c programming language is called Procedural Oriented language because
+  it emphasizes on dividing a problem into smaller procedures or sub tasks, which are
+  then solve one-by-one to achieve the final solution.

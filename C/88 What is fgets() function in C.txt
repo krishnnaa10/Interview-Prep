@@ -1,0 +1,4 @@
+Q. What is fgets() function in C?
+
+
+- The fgets() function reads a line of characters from file.

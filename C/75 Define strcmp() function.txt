@@ -1,0 +1,5 @@
+Q. Define strcmp() function.
+
+
+- It is a function for string comparison. The strcmp(first_string, second_string) function compares two strings
+  and returns 0 if both strings are equal.

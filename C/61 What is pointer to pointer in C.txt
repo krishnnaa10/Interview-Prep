@@ -1,0 +1,5 @@
+Q. What is pointer to pointer in C?
+
+
+- In C, a pointer can also be used to store the address of another pointer. A double pointer or pointer
+  to pointer is such a pointer.

@@ -1,0 +1,4 @@
+Q. Define strupr() function.
+
+
+- The strupr() function is used to converts a given string to uppercase.

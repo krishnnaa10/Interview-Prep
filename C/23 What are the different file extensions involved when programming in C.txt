@@ -1,0 +1,7 @@
+Q. What are the different file extensions involved when programming in C?
+
+
+- Source codes in C are saved with .C file extension. Header files or library files have
+  the .h file extension. Every time a program source code is successfully compiled, it 
+  creates an .obj object file, and an executable .exe file.
+

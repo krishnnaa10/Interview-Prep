@@ -1,0 +1,22 @@
+Q. Define if-else-if ladder statement.
+
+
+- The if-else-if ladder statement is an extension to the if-else statement.
+
+         If a condition is true then the statements defined in the if block will be
+  executed, otherwise if some other condition is true then the statements defined in
+  the else-if block will be executed, at the last if none of the condition is true 
+  then the statements defined in the else block will be executed.
+
+  ie.. if(a==0)
+       {
+          print("0");
+       }
+       else if(a==1)
+       {
+          print("1");
+       }
+       else
+       {
+          print("Neither 1 Nor 0");
+       }

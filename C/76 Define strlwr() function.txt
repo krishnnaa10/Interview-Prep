@@ -1,0 +1,4 @@
+Q. Define strlwr() function.
+
+
+- The strlwr() function is used to converts a given string to lowercase.

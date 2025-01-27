@@ -1,0 +1,10 @@
+Q. Define Logical operators in C.
+
+
+- In C programming, logical operators are used to evaluate the truth value of an 
+  expression or a condition. They allow programmers to combine multiple conditions
+  and test them simultaneously.
+
+  There are three logical operators in C:
+
+  "&&" (logical AND), "||" (logical OR), and "!" (logical NOT).

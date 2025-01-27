@@ -1,0 +1,4 @@
+Q. What is fputs() function in C?
+
+
+- The fputs() function writes a line of characters into file. It outputs string to a stream.

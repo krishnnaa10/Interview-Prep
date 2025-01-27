@@ -1,0 +1,12 @@
+Q. Define do while loop.
+
+
+- The do while loop works very similar to while loop. This loop will execute the code
+  at least once, before checking if the condition is true, then it will repeat the loop
+  as long as the condition is true.
+
+  ie.. do {
+         printf(i);
+         i++;
+       }
+       while(i<5);

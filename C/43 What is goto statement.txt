@@ -1,0 +1,5 @@
+Q. What is goto statement ?
+
+
+- The goto statement is known as jump statement. As the name suggests, Goto statement is
+  used to jump from one part of the code to any other part of the code in C.

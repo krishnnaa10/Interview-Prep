@@ -1,0 +1,8 @@
+Q. Write some rules for naming variables in C ?
+
+
+- Variable names are case sensitive.
+  A variable name must not be any reserved keyword.
+  First letter must be an alphabet or underscore(_).
+  No commas, blanks allowed.
+  No special symbol other than underscore(_) allowed.

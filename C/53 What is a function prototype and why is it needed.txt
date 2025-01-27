@@ -1,0 +1,10 @@
+Q. What is a function prototype and why is it needed?
+
+
+- A function prototype is a declaration of a function that tells the compiler about the function's
+  name, return type, and parameters. 
+
+            It is needed because C is a strongly-typed language and the compiler needs to know the 
+  types of the arguments and return value in order to generate correct code. Without a function 
+  prototype, the compiler would have to guess at the function's signature, which could lead to errors
+  or undefined behavior.

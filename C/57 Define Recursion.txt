@@ -1,0 +1,9 @@
+Q. Define Recursion.
+
+
+- Recursion is the process of a function calling itself repeatedly till the given condition
+  is satisfied. This technique provides a way to break complicated problems down into simple
+  problems which are easier to solve.
+
+
+

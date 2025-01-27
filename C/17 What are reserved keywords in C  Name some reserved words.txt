@@ -1,0 +1,7 @@
+Q. What are reserved words in C ? Name some reserved words.
+
+
+- These are reserved words whose meaning is already known to compiler.
+  
+  There are 32 keywords available in C-
+  ie.. char, const, return, int, else, struct, default, goto etc.. 

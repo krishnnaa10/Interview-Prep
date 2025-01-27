@@ -1,0 +1,5 @@
+Q. What are some common string functions in C?
+
+
+- Some of the common string functions in C includes strlen(), strcpy(), strcat(), strcmp(), strlwr(), strupr(),
+  and strrev().

@@ -1,0 +1,7 @@
+Q. What is the major disadvantage in C language ?
+
+
+- C is a massive and vast language, but it does not have the concept of OOPs like
+  Inheritance, Polymorphism, Encapsulation, Abstraction, Data Hiding, overloading,
+  and overriding. Due to this it is sometimes hectic for the programmer to solve a
+  real-world problem easily.

@@ -1,0 +1,10 @@
+Q. Define If statement.
+
+
+- The single if statement in C language is used to execute the code if a condition is 
+  true.
+
+  ie.. if(pi==3.14)
+       {
+          return true;
+       } 

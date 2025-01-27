@@ -1,0 +1,7 @@
+Q. What is File Pointer in C?
+
+
+- File pointer is a pointer which is defined in the standard library stdio.h and used to handle and keep
+  track on the files being accessed.
+
+     File Pointer is needed for communication between the file and the program.

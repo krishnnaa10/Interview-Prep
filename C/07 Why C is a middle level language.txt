@@ -1,0 +1,8 @@
+Q. Why C is a middle level language ?
+
+
+- C is considered as a middle-level language because it supports the feature of
+  both low-level and high-level languages.
+
+         C language program is converted into assembly code, it supports pointer
+  arithmetic (low-level), but it is machine independent (a feature of high-level).

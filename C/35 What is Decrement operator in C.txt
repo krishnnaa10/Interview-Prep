@@ -1,0 +1,14 @@
+Q. What is Decrement operator in C ?
+
+
+- The decrement ( -- ) operator in C are used for decrementing the numeric values by
+  1 respectively.
+
+  Types- 
+  
+  pre-decrement : The value is first decremented and then used inside the expression. 
+  ie.. --num;
+
+  post-decrement : The value is first used inside the expression and then decremented.
+  ie.. num--;
+  

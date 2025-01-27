@@ -1,0 +1,5 @@
+Q. What is multi-dimensional array?
+
+
+- A multi-dimensional array is an array that has more than one dimension. It is basically an array of arrays.
+  It allows you to store data in a table-like format, where each row and column can be accessed using an index.

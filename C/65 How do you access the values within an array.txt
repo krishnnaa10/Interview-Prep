@@ -1,0 +1,4 @@
+Q. How do you access the values within an array?
+
+
+- Array elements are store in a sequential manner, so using the array index we can access the array elements.

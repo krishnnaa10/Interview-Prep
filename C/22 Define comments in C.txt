@@ -1,0 +1,9 @@
+Q. Define comments in C ?
+
+
+- Comments are portions which are not executed and ignored in the 
+  program.
+
+  Single line comment - //.....
+  Multi line comment - /* ....
+                          .... */

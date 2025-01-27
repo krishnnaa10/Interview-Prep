@@ -1,0 +1,8 @@
+Q. Why C is called mother of all language ?
+
+
+- C language is considered as the mother language of all the modern programming
+  languages because most of the compilers, JVMs, Kernels, etc. are written in C
+  language.
+
+      If you know C, then you can easily grasp other programming languages.

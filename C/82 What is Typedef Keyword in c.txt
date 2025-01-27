@@ -1,0 +1,6 @@
+Q. What is Typedef Keyword in c?
+
+
+- The typedef is a keyword that is used to provide existing data types with a new name. When names of 
+  datatypes become difficult to use in programs, typedef is used with user-defined datatypes, which 
+  behave similarly to defining an alias for commands.

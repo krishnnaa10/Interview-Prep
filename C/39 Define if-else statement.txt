@@ -1,0 +1,14 @@
+Q. Define if-else statement.
+
+
+- The if-else statement in C language is used to execute the code if the condition is true
+  or false.
+
+  ie.. if(k==10)
+       {
+          return true;
+       }
+       else
+       {
+          return false;
+       }

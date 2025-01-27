@@ -1,0 +1,4 @@
+Q. Define strrev() function.
+
+
+- The strrev() function is used to reverse the given string. 

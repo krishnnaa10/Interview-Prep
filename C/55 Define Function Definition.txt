@@ -1,0 +1,5 @@
+Q. Define Function Definition.
+
+
+- Function definition means just writing the body of a function. A body of a function consists of
+  statements which are going to perform a specific task.

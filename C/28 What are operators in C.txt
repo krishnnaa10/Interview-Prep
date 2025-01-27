@@ -1,0 +1,12 @@
+Q. What are operators in C ?
+
+
+- The operators are types of symbols that inform a compiler for performing some specific
+  logical or mathematical functions.
+
+  Types - 
+
+   Arithmetic Operators
+   Relational Operators
+   Assignment Operators
+   Logical Operators

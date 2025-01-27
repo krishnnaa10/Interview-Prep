@@ -1,0 +1,20 @@
+Q. Define switch statement.
+
+
+- The switch statement in C is an alternate to if-else-if ladder statement. It allows
+  us to execute one code block among many alternatives.
+
+  ie.. switch(number)
+       {
+          case 1:
+             print("1");
+             break;
+
+          case 2:
+             print("2");
+             break;
+
+          default:
+             print("Neither 1 Nor 2");
+             break;
+         }   

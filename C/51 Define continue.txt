@@ -1,0 +1,5 @@
+Q. Define continue.
+
+
+- The continue statement skips the current iteration of the loop and continues with the
+  next iteration.

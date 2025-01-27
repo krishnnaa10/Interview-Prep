@@ -1,0 +1,5 @@
+Q. What is use of calloc() function?
+
+
+- The full form of calloc is contiguous allocation. It is used to allocate dynamic memory for two
+  dimensional array i.e. memory allocates in row and column manner.

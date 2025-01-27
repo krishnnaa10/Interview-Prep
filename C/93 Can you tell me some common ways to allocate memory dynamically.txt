@@ -1,0 +1,4 @@
+Q. Can you tell me some common ways to allocate memory dynamically?
+
+
+- Here are some common ways to allocate memory dynamically: malloc(), calloc(), raalloc().

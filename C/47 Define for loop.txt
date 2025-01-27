@@ -1,0 +1,13 @@
+Q. Define for loop.
+
+
+- A for loop is a more efficient loop structure in ‘C’ programming. In for loop, three
+  parameters are given that is:
+
+    Initialization
+    Condition
+    Increment/Decrement
+
+  ie.. for(i=0; i<=10; i++){
+             print(i);
+       }

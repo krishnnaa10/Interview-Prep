@@ -1,0 +1,7 @@
+Q. Define scanf() function.
+
+
+- The scanf() function is used for input, defined in stdio.h (header file). It
+  reads the input data from the console.
+
+  ie.. scanf("format string", &argument_list);

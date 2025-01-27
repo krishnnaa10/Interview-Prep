@@ -1,0 +1,12 @@
+Q. What is loop ?
+
+
+- The looping can be defined as repeating the same process multiple times until a
+  specific condition satisfies. It is known as iteration also.
+
+  There are 4 types of loop statements in C.
+
+    While loop
+    Do While Loop
+    For Loop
+    Nested Loop

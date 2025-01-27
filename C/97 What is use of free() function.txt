@@ -1,0 +1,6 @@
+Q. What is use of free() function?
+
+
+- free() function in C is used to dynamically de-allocate the memory. The memory allocated using functions
+  malloc() and calloc() is not de-allocated on their own. Hence the free() method is used. It helps to reduce
+  wastage of memory by freeing it.

@@ -1,0 +1,4 @@
+Q. What is function call?
+
+
+- It is a way to tell the compiler to execute the function body at the time the call is made.

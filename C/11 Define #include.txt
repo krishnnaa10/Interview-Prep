@@ -1,0 +1,5 @@
+Q. Define #include.
+
+
+- #include is a way of including a standard or user-defined file in the program and is
+  mostly written at the beginning of the program.

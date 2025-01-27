@@ -1,0 +1,6 @@
+Q. Define stdio.h ?
+
+
+- The file stdio.h is a built-in header file in C. The stdio stands for Standard
+  Input and Output. It is a common header file in every C program code to perform
+  input/output operations.

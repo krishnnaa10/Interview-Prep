@@ -1,0 +1,5 @@
+Q. Define Structure in C.
+
+
+- The structure in C is a user-defined data type. It is a collection of variables of different 
+  types under a single name. The struct keyword is used to define the structure in the C.

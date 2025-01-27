@@ -1,0 +1,7 @@
+Q. Define float data type.
+
+
+- Float variables store decimal values with up to 6 digits after the decimal place. The
+  storage size of the float variable is 4 bytes.
+  
+    In C language, the float values are represented by the ‘%f’ format specifier.

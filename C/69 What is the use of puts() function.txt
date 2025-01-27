@@ -1,0 +1,5 @@
+Q. What is the use of puts() function?
+
+
+- C library also facilitates a special function to print a string on the console screen. This function is 
+  represented as puts() function.

@@ -1,0 +1,8 @@
+Q. What is pointer in c ?
+
+
+- A pointer is a variable that stores the memory address of another variable as its
+  value. We can access and manipulate the data stored in that memory location using
+  pointers.
+
+       It is created with the * (asterisk symbol) operator.

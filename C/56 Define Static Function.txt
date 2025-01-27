@@ -1,0 +1,12 @@
+Q. Define Static Function.
+
+
+- The functions in C are by default global. If we want to limit the scope of the function, we use the 
+  keyword static before the function.
+
+  Use of Static Function in C : 
+
+    Encapsulation 
+    Hiding Information
+    Performance Optimisation
+    Name Conflicts 

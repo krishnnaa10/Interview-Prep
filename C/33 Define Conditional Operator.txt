@@ -1,0 +1,9 @@
+Q. Define Conditional Operator.
+
+
+- A short hand "if-else" can be written using the conditional operator.
+
+          The conditional operator is the one and only ternary operator
+  in the C programming language.
+
+  ie.. condition ? expression1 : expression2;

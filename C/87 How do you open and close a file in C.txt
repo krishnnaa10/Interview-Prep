@@ -1,0 +1,4 @@
+Q. How do you open and close a file in C?
+
+
+- We can open a file using the fopen function and close it using the fclose function.

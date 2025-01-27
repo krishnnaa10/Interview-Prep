@@ -1,0 +1,4 @@
+Q. Define strcat() function.
+
+
+- The strcat() function in C is a built-in function that is used to concatenate two strings.

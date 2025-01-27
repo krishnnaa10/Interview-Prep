@@ -1,0 +1,11 @@
+Q. Define nested loop.
+
+
+- The use one or more loops inside any other while, for, or do while loop is 
+  called as nested loop.
+
+  ie.. for(i=1; i<=n; i++){
+          for(j=1; j<=n-i+1; j++){
+              print(*);
+          }
+       }

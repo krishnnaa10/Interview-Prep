@@ -1,0 +1,8 @@
+Q. What is Null Pointer?
+
+
+- The Null pointer is a pointer that is initialized with a Null value at the time of pointer declaration.
+  Some uses of the null pointer are:
+
+    To avoid crashing down the program.
+    To perform error handling.

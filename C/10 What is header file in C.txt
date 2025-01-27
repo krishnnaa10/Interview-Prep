@@ -1,0 +1,6 @@
+Q. What is header file in C ?
+
+
+- In C language, header files contain a set of predefined standard library functions.
+  The .h is the extension of the header files in C and we request to use a header file
+  in our program by including it with the C preprocessing directive “#include”.

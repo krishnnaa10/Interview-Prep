@@ -1,0 +1,4 @@
+Q. define break.
+
+
+- The break statement ends the loop immediately when it is encountered.

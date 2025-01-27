@@ -1,0 +1,13 @@
+Q. Define Nested if-else statement.
+
+
+- When an if-else statement is present inside the body of another “if” or “else” then
+  this is called nested if else.
+
+  ie.. if(s=12){
+          if(s%2==0){
+              print("even");
+          }
+       else{
+           print("odd");
+       }

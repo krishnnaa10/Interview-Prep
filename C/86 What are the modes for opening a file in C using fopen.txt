@@ -1,0 +1,4 @@
+Q. What are the modes for opening a file in C using fopen?
+
+
+- Some Common modes are : "r" (read), "w" (write), "a" (append), "rb" (read binary), "wb" (write binary), etc.
