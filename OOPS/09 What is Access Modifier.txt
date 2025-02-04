@@ -1,0 +1,24 @@
+Q. What is Access Modifier?
+
+
+- Access modifiers (or access specifiers) are keywords that control the accessibility of classes,
+  methods, and other members.
+
+   Types : Public , Protected, Private, Default
+
+     Public - Information that we want to share with every other class declared as public.
+     ie.. My degree 
+
+     Protected - Information that we want to share only with the child classes will be declared 
+     as protected.
+     ie.. How much money i have (only share with my child) 
+
+     Private - Information that we don't want to share with anyone will be declared as private.
+     ie.. How much girlfriends i had in past
+
+     Default - Information that we want to share with every other class in the same package will
+     be declared as default. If we don't use any access specifier then it will be consider as 
+     default.
+     ie.. Where is the duplicate key of the house (share with the members of the house)
+
+  

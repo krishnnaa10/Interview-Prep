@@ -1,0 +1,5 @@
+Q. What is copy constructor?
+
+
+- Copy constructor creates an object by initializing it with an existing object of the
+  same class.

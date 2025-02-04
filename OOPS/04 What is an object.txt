@@ -1,0 +1,7 @@
+Q. What is an object?
+
+
+- Object is termed as an instance of a class with having its own stated behaviour and
+  identity while occupying some memory.
+
+         They can access variables or methods declared inside the class.

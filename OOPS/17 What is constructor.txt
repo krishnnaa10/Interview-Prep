@@ -1,0 +1,12 @@
+Q. What is constructor?
+
+
+- It is a special method used for initializing objects. It has the same name as class name. It 
+  doesn't have any return type. It is invoked automatically at the time of object creation, means
+  The constructor is called when an object of a class is created.
+
+  There are three types of constructor-
+  
+   1. Default constructor
+   2. Parameterize constructor
+   3. Copy constructor

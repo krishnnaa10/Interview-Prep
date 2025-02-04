@@ -1,0 +1,14 @@
+Q. What is Inheritance?
+
+
+- Child class inherits the properties and behaviour of their Parent class is called
+  Inheritance.
+
+  Parent class is also known as Super class or Base class.
+  Child class is also known as Sub class or Derived class.
+
+  Types : Single Inheritance
+          Multiple Inheritance
+          Multilevel Inheritance
+          Hierarchical Inheritance
+          Hybrid Inheritance

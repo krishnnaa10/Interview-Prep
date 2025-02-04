@@ -1,0 +1,8 @@
+Q. What is default constructor?
+
+
+- A default constructor takes no arguments. Thus, it is called, by default, when an
+  object is created without any arguments.
+
+  
+  

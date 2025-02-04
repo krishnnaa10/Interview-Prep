@@ -1,0 +1,8 @@
+Q. What is abstraction?
+
+
+- Abstraction is the process of hiding confidential & un-relevant information and showing
+  only relevant & essential details to the user.
+
+                We can achieve abstraction in multiple ways like using - Abstract Classes,
+  Access Modifier, Interfaces etc... 

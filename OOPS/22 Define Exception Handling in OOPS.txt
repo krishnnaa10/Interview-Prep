@@ -1,0 +1,7 @@
+Q. Define Exception Handling in OOPS. 
+
+
+- Exception handling is a mechanism in object-oriented programming (OOP) that allows you to
+  gracefully manage errors or unexpected situations that may occur during program execution.
+  It helps to prevent your program from crashing and provides a more robust and user-friendly
+  experience.

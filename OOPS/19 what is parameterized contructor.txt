@@ -1,0 +1,5 @@
+Q. what is parameterized constructor?
+
+
+- A parameterized constructor takes one or more arguments. It is used to initialize the
+  data members of an object, with specific values that the user provides.

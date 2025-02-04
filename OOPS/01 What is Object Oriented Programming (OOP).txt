@@ -1,0 +1,17 @@
+Q. What is Object Oriented Programming (OOP)?
+
+
+- OOP is developed to solve complex real world problem in simple way. Object Oriented
+  Programming assumes that everything in the world is an object and each object can 
+  have some unique properties.
+  
+  Example :
+
+     class Person
+      - Name
+      - Age
+      - Gender
+
+     Name - Krishna      Name - Aditi
+     Age - 24            Age - 21
+     Gender - Male       Gender - Female

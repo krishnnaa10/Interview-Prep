@@ -1,0 +1,6 @@
+Q. Name the four pillars of Object Oriented Programming.
+
+- Abstraction
+  Encapsulation
+  Inheritance
+  Polymorphism

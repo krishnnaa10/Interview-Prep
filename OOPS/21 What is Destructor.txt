@@ -1,0 +1,7 @@
+Q. What is Destructor?
+
+
+- Destructor works opposite to the constructor, it destructs the objects of classes. Like
+  Constructor it is invoked automatically whenever the object is going to be destroyed. It 
+  also has the same name as class name but it is prefixed with a tilde(~) sign.
+      

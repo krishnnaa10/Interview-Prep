@@ -1,0 +1,18 @@
+Q. What is Encapsulation?
+
+
+- Have you ever seen capsule use for medication, it is made up of two components- first
+  is the medicine itself and second is the outer layer which is use to protect medicines
+  from various factors like cold and hot environment etc. So important medicine is 
+  wrapped into some container called capsule which is used to protect medicines from 
+  outer contact.
+
+  Similarly, variables and function are wrapped into class and object. You can consider
+  class as outer container that protects variables and function from any outside 
+  unauthorised access.
+
+  So, Wrapping a variables and function into single unit like a class is called as 
+  Encapsulation.
+  
+  Use - Restricting access to variables and function
+        Data hiding (abstraction)

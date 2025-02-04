@@ -1,0 +1,16 @@
+Q. Difference between Procedural Oriented Programming and Object Oriented Programming?
+
+
+- Procedural Oriented Programming is based on unreal world but Object Oriented Programming
+  is based on real world.
+
+  Procedural Oriented Programming languages follows top-down approach while Object Oriented
+  Programming languages follows bottom-up approach.
+
+  In Procedural Oriented Programming languages, it is less secure because it do not have any
+  proper way for hiding data and, In Object Oriented Programming languages, we are using the
+  access modifiers (Public, Private, Protected) so that's why it is too much secure.
+
+  In Procedural Oriented Programming languages we are having certain languages like C, Pascal,
+  Basic, COBOL, etc. but In Object Oriented Programming languages we are having C++, Python, 
+  Java, C#.

@@ -1,0 +1,11 @@
+Q. What is Polymorphism?
+
+
+- Word polymorphism is the combination of two different words Poly and Morphism. Poly
+  means Multiple and Morphism means forms or state. So, polymorphism means one object can
+  have multiple forms.
+
+  There are 2 types of polymorphism - 
+    
+   Compile time Polymorphism
+   Run time Polymorphism

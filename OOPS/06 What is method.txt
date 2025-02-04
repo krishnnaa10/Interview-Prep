@@ -1,0 +1,17 @@
+Q. What is method?
+
+
+- A method is an action which an object is able to perform.
+
+  Classes can also contain functions called methods that are available only to objects of 
+  that type. These functions are defined within the class and perform some action helpful
+  to that specific object type.
+
+  For example, Car class may have a repaint method that changes the color attribute of our car.
+
+  ie.. Class Car
+       Object MyCar
+
+       color = red
+       repaint()     <-- This is method
+       

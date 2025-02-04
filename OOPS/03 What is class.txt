@@ -1,0 +1,7 @@
+Q. What is class?
+
+
+- A class is simply a representation of collections of objects without having any impact
+  on the memory. It is an object's blueprint or template. 
+
+        Inside class we can define variables, constants, member functions etc...

@@ -1,0 +1,17 @@
+Q. What is method overriding?
+
+
+- Method overriding is a feature that allows us to have multiple functions with the
+  same name but in different classes that is in parent and child class.
+
+  ie... RBI Class (Parent class)
+        int rateofintrest(){
+          print("7%");
+        }
+
+        SBI Class (Child class)
+        int rateofintrest(){
+          print("6%");
+        }
+
+  Method overriding is also called as Function overriding.

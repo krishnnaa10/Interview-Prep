@@ -1,0 +1,8 @@
+Q. What is compile time polymorphism?
+
+
+- If you are able to identify which method we need to execute during the compile time, 
+  we call it as compile time polymorphism. It is also known as static binding or 
+  early binding.
+
+       Compile time polymorphism is obtained through method overloading.

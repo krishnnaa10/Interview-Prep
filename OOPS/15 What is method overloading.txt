@@ -1,0 +1,17 @@
+Q. What is method overloading?
+
+
+- Method overloading means having two or more methods (or functions) in a class with the 
+  same name and different parameters.
+
+  ie... function add(int a, int b){
+           return a+b;
+        }
+
+        function add(int a, int b, int c){
+           return a+b+c;
+        }
+
+  and compiler decides which function to call based on parameters at compile time.
+
+  It is also known as Function Overloading.

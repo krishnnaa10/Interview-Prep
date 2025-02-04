@@ -1,0 +1,8 @@
+Q. What is run time polymorphism?
+
+
+- Run time polymorphism where at run time we come to know which method is going to invoke.
+  It is also called as dynamic binding or late binding. Inheritance is involved in run
+  time polymorphism.
+
+          Method overriding is an example of run time polymorphism.
