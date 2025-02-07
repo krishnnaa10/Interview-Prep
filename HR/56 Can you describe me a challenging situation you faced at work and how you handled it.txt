@@ -1,0 +1,14 @@
+Q. Can you describe me a challenging situation you faced at work and how you handled it?
+
+
+- During my major project in college, my team chose an Exploratory Data Analysis (EDA) project,
+  and since I was the only one with prior Python knowledge, I had to handle the technical aspects.
+  However, I realized that to complete the project, I needed to learn NumPy, Pandas, Matplotlib, 
+  and Seaborn within a week. 
+
+           Determined to meet the deadline, I created a structured learning plan, dedicating each 
+  day to mastering one library using online courses. By the 6th day, I had gained enough proficiency 
+  to apply these tools effectively, and on the 7th day, I successfully completed the project. 
+
+               Our submission was well-received by faculty, and this experience enhanced my ability
+  to learn quickly, adapt under pressure, and handle technical challenges efficiently.
