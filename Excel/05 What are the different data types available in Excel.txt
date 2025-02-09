@@ -1,0 +1,8 @@
+Q. What are the different data types available in Excel?
+
+
+- Text (String)
+  Numeric (Numbers)
+  Date/Time
+  Boolean (TRUE/FALSE)
+  Error (e.g., #DIV/0!, #VALUE!)

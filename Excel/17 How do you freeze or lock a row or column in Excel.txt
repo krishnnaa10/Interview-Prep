@@ -1,0 +1,8 @@
+Q. How do you freeze/lock row or column in Excel?
+
+
+- Go to View → Freeze Panes → Choose:
+
+  "Freeze Top Row" to lock the first row.
+  "Freeze First Column" to lock the first column.
+  "Freeze Panes" (select a cell to lock rows above and columns to the left).

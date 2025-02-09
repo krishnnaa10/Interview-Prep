@@ -1,0 +1,6 @@
+Q. What is Merge & Center in Excel, and how do you use it?
+
+
+- Merge & Center in Excel combines multiple selected cells into one and centers the text inside.
+
+    Select cells → Home tab → Click Merge & Center.

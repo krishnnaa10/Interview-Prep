@@ -1,0 +1,4 @@
+Q. How do you add a hyperlink to a cell in Excel?
+
+
+- Go to Insert → Click Link → Enter the URL or select a file/sheet → Click OK to add the hyperlink. 

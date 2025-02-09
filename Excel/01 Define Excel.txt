@@ -1,0 +1,3 @@
+Q. Define Excel.
+
+- Excel is a spreadsheet program by Microsoft that helps users organize, format, and calculate data. 

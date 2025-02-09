@@ -1,0 +1,6 @@
+Q. What is AutoFill in Excel, and how does it work?
+
+
+- AutoFill in Excel is a feature that automatically fills data in a series by dragging the fill handle. 
+  
+    It helps in quickly copying values or extending a sequence (e.g., 1, 2, 3… or Jan, Feb, Mar…).

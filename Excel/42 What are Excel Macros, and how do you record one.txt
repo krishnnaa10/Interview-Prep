@@ -1,0 +1,6 @@
+
+Q. What are Excel Macros, and how do you record one?
+
+- Macros in Excel are recorded actions that automate repetitive tasks with a single click. 
+
+       Developer Tab → Record Macro → Perform actions → Stop Recording.

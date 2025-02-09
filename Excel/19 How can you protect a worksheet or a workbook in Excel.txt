@@ -1,0 +1,8 @@
+Q. How can you protect a worksheet or a workbook in Excel?
+
+
+- To protect a sheet: 
+  Go to Review → Protect Sheet → Set a password (optional) → Click Ok.
+
+  To protect a workbook:
+  Go to Review → Protect Workbook → Set a password (optional) → Click Ok.

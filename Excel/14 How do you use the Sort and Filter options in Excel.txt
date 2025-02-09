@@ -1,0 +1,6 @@
+Q. How do you use the Sort and Filter options in Excel?
+
+
+- Sort: Go to Data → Sort → Choose a column and sorting order.
+
+  Filter: Select data → Click Filter → Use drop-down to filter values.

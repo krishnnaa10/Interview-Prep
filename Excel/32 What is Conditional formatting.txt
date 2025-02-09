@@ -1,0 +1,7 @@
+Q. What is Conditional formatting ?
+
+
+- Conditional Formatting is a feature that automatically applies formatting (such as colors, icons,
+  or data bars) to cells based on specific conditions to make data easier to understand.
+
+        Home --> Conditional Formatting 

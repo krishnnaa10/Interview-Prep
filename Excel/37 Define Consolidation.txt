@@ -1,0 +1,5 @@
+Q. Define Consolidation.
+
+
+- It is a technique that summarizes the data from different worksheets and combines it into 
+  one single worksheet.

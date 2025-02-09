@@ -1,0 +1,5 @@
+Q. What is Slicer ?
+
+
+- A slicer is a powerful tool that allows you to quickly filter and analyze data within a 
+  table. It provides a visual way to interact with your data.

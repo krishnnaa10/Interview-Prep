@@ -1,0 +1,9 @@
+Q. What is the difference between CONCATENATE and TEXTJOIN in Excel?
+
+
+- CONCATENATE (or CONCAT in newer versions) joins multiple text values but does not allow a
+  delimiter between them.
+  Syntax - CONCATENATE(text1, [text2], ...)
+
+  TEXTJOIN allows a delimiter (such as a comma or space) and can ignore empty cells.
+  Syntax - TEXTJOIN(delimiter, ignore_empty, text1, [text2], ...)

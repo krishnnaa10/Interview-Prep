@@ -1,0 +1,15 @@
+Q. Define Data Validation.
+
+
+- Data validation in Excel refers to setting specific criteria for accepting data in a cell
+  or range of cells. This feature prevents users from entering invalid data that could lead
+  to errors in calculations. It ensures data accuracy.
+
+  Example -
+
+  - Ensure emails have "@“.
+  - Dates follow DD-MM-YYYY.
+  - Age should be between 18 and 65. 
+  - Prices shouldn't be negative.
+  - No two employees should have the same ID.
+  - Phone number contains only 10 values.

@@ -1,0 +1,4 @@
+Q. How do you remove duplicate values from a dataset?
+
+
+- Select the data range → Go to Data → Remove Duplicates → Choose columns → Click OK.

@@ -1,0 +1,7 @@
+Q. What are the common Excel file extensions and their uses?
+
+
+- .xlsx – Default format (does not support macros).
+  .xlsm – Macro-enabled workbook.
+  .xls – Older Excel format (Excel 2003 and earlier).
+  .csv – Comma-separated values (plain text).

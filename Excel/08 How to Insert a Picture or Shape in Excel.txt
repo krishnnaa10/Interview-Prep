@@ -1,0 +1,8 @@
+Q. How to Insert a Picture or Shape in Excel?
+
+
+- Insert Picture : 
+  Go to Insert → Click Pictures → Select This Device or Online Pictures → Choose an image → Click Insert.
+
+  Insert Shape :
+  Go to Insert → Click Shapes → Choose a shape → Click and drag to draw it on the sheet.

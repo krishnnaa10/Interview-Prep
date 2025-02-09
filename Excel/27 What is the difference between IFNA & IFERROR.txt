@@ -1,0 +1,8 @@
+Q. What is the difference between IFNA & IFERROR?
+
+
+- IFNA	Only handles #N/A errors, returning a custom value.
+  ie.. #N/A
+
+  IFERROR - Handles all types of errors and returns a custom value.	
+  ie.. #DIV/0!, #N/A, #VALUE!, #REF!, #NAME?, #NUM!

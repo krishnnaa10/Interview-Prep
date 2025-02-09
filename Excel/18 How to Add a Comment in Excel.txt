@@ -1,0 +1,4 @@
+Q. How to Add a Comment in Excel?
+
+
+- Right-click on a cell → Insert Comment → Type your comment and click outside the box to save it.

@@ -1,0 +1,11 @@
+Q. What is INDIRECT function in excel?
+
+
+- The INDIRECT function in Excel converts a text string into a cell reference. It is useful 
+  when you need to pull data from other sheets or files.
+
+  ie.. Same Sheet -
+       =INDIRECT("B2")  →  Returns the value of B2
+ 
+       Different Sheet -
+       =INDIRECT("Sheet2!B2") → Returns the value of B2 in Sheet2.

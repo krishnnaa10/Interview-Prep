@@ -1,0 +1,17 @@
+Q. What is the LOOKUP function in Excel, and what are its limitations?
+
+
+- The LOOKUP function in Excel searches for a value in a row or column and returns a corresponding
+  value from another row or column. 
+
+  It has two forms: 
+
+  Vector Form - LOOKUP(lookup_value, lookup_vector, result_vector)
+  Array Form - LOOKUP(lookup_value, array)
+
+  Limitations :
+
+  -> Only Works with Sorted Data (Ascending Order).
+  ->  Only returns the closest match if an exact match isn't found.
+  -> Can't search from right to left.
+  -> Not available in newer Excel versions (Replaced by VLOOKUP, HLOOKUP & XLOOKUP)

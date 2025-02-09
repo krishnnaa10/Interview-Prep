@@ -1,0 +1,7 @@
+Q. How do you insert a table in Excel?
+
+
+- 1. Select the range of data.
+  2. Press Ctrl + T or go to Insert → Table.
+  3. Check "My table has headers" if applicable.
+  4. Click OK.

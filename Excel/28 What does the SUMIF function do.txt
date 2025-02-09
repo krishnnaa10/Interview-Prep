@@ -1,0 +1,7 @@
+Q. What does the SUMIF function do?
+
+
+- SUMIF function sums values based on a condition.
+  Syntax: =SUMIF(range, criteria, [sum_range])
+
+  ie.. =SUMIF(A1:A10, ">50", B1:B10) -> Sums values in B1:B10 where A1:A10 > 50

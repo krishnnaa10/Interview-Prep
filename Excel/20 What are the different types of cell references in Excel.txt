@@ -1,0 +1,8 @@
+Q. What are the different types of cell references in Excel?
+
+
+- Excel has three types of cell references:
+
+   1. Relative Reference (A1) – Changes when copied to another cell.
+   2. Absolute Reference ($A$1) – Remains fixed when copied.
+   3. Mixed Reference ($A1 or A$1) – Either row or column stays fixed.

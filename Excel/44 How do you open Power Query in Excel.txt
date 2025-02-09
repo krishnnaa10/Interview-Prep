@@ -1,0 +1,4 @@
+Q. How do you open Power Query in Excel?
+
+
+- Data tab → Get & Transform section → Click on Get Data → Launch Power Query Editor.

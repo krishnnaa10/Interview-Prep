@@ -1,0 +1,5 @@
+Q. What is Power Query in Excel?
+
+
+- Power Query is a data transformation tool in Excel that allows users to extract, clean,
+  transform, and load (ETL) data from various sources.

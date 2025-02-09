@@ -1,0 +1,5 @@
+Q. What data sources can Power Query connect to?
+
+
+- Excel files, CSV, JSON, XML, databases (SQL Server, Oracle, MySQL), APIs, SharePoint,
+  Web pages, Azure, and more.

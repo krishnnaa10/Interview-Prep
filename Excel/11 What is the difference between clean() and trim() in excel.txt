@@ -1,0 +1,8 @@
+Q. What is the difference between clean() and trim() in excel?
+
+
+- CLEAN removes non-visible characters (e.g., line breaks).
+  =CLEAN("Hello World") → "HelloWorld"
+
+  TRIM removes extra spaces but keeps single spaces between words. 
+  =TRIM(" Hello World ") → "Hello World"

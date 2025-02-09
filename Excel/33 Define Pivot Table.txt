@@ -1,0 +1,5 @@
+Q. Define Pivot Table.
+
+- A Pivot Table in Excel is a tool that helps summarize, analyze, and organize large 
+  amounts of data by grouping, filtering, and showing insights like totals or averages
+  in a simple table format.

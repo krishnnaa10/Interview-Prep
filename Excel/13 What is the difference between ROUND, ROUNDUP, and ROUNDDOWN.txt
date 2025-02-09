@@ -1,0 +1,11 @@
+Q. What is the difference between ROUND, ROUNDUP, and ROUNDDOWN?
+
+
+- ROUND(value, digits) – Rounds to the nearest value based on standard rounding rules.
+  =ROUND(12.6, 0)  ->  Returns 13
+
+  ROUNDUP(value, digits) – Always rounds up.
+  =ROUNDUP(12.6, 0)  ->  Returns 13
+
+  ROUNDDOWN(value, digits) – Always rounds down.
+  =ROUNDDOWN(12.6, 0)  ->  Returns 12

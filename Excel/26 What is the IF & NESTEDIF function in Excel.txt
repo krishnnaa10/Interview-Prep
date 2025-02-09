@@ -1,0 +1,9 @@
+Q. What is the IF & NESTEDIF function in Excel?
+
+
+- The IF function checks a condition and returns different values for TRUE and FALSE cases.
+  ie.. =IF(A1>50, "Pass", "Fail")
+
+  The NESTEDIF is IF inside IF.
+  ie.. =IF(A1>80, "Excellent", IF(A1>50, "Good", "Fail"))
+

@@ -1,0 +1,15 @@
+Q. What is INDEX-MATCH in Excel, and how is it better than VLOOKUP?
+
+
+- INDEX and MATCH functions are the perfect duo for advanced data lookup and retrieval.
+
+  INDEX-MATCH combines two functions:  
+
+    MATCH - Finds the position of a value in a range.  
+    INDEX - Returns the value from that position in a table.
+
+  It is better than VLOOKUP because :
+
+    Can search in any direction (left or right).
+    Faster for large data.
+    No need to count columns.

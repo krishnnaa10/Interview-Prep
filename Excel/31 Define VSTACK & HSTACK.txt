@@ -1,0 +1,10 @@
+Q. Define VSTACK & HSTACK.
+
+
+- The VSTACK and HSTACK functions are available in Excel 2021. 
+
+  VSTACK : Vertically stack arrays row wise.
+  syntax - =VSTACK(array1, array2, ...)
+
+  HSTACK : Horizontally stack arrays column wise.
+  syntax - =HSTACK(array1, array2, ...)

@@ -1,0 +1,4 @@
+Q. What are the different types of charts available in Excel?
+
+
+- Line Chart, Pie Chart, Bar Chart, Scatter Chart, Column Chart

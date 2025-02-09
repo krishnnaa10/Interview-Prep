@@ -1,0 +1,4 @@
+Q. What is the total number of rows and columns in an Excel 2016 worksheet?
+
+
+- 1,048,576 rows and 16,384 columns

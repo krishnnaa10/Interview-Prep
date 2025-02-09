@@ -1,0 +1,10 @@
+Q. What is VLOOKUP & HLOOKUP ?
+
+
+- VLOOKUP & HLOOKUP is a powerful function in Excel that is used to retrieve data from a table
+  based on the LOOKUP value.
+
+  Formula -
+
+  VLOOKUP : (LOOKUP Value, Table Array, Column Index No., [range lookup])
+  HLOOKUP : (LOOKUP Value, Table Array, Row Index No., [range lookup])

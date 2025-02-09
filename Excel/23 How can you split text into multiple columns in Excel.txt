@@ -1,0 +1,9 @@
+Q. How can you split text into multiple columns in Excel?
+
+
+- We can split text using the Text to Columns feature -
+
+  Select the column with data.
+  Go to Data → Text to Columns → Choose Delimited or Fixed Width → Select the delimiter → Finish.
+
+  Also we can split text using formulas like LEFT, RIGHT, MID, and SPLIT.

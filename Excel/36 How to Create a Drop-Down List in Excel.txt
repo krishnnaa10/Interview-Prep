@@ -1,0 +1,7 @@
+Q. How to Create a Drop-Down List in Excel?
+
+
+- A drop-down list in Excel is a type of data validation that provides a predefined list of 
+  options for users to choose from.
+
+   Select Range -> Data -> Data Validation -> Select List -> Enter the list source -> Ok

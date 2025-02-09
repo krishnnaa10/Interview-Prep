@@ -1,0 +1,8 @@
+Q. What is TEXTSPLIT Function in Excel and how it is different from TEXT TO COLUMNS?
+
+
+- The TEXTSPLIT function in Excel is used to split text into multiple cells based on a
+  specified delimiter (like a comma, space, or any character). It is available in Excel 2021.
+
+               With the key difference being that TEXT TO COLUMNS is a manual feature, while
+  TEXTSPLIT is a formula that dynamically updates when data changes.

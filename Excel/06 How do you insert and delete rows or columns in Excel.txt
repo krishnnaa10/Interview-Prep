@@ -1,0 +1,5 @@
+Q. How do you insert and delete rows/columns in Excel?
+
+
+- Insert: Right-click a row/column → Click Insert.
+  Delete: Right-click a row/column → Click Delete.

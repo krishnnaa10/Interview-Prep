@@ -1,0 +1,14 @@
+Q. Define XLOOKUP.
+
+
+- The XLOOKUP function in Excel is a powerful and flexible tool designed to replace older lookup
+  functions like VLOOKUP and HLOOKUP. Unlike these traditional functions, XLOOKUP can search both
+  vertically and horizontally, making it ideal for retrieving specific values from any range in a
+  table.
+ 
+       XLOOKUP makes data retrieval in Excel easier and more reliable.
+
+  =XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found], [match_mode], [search_mode])
+
+  XLOOKUP is available in Excel 365 and Excel 2019 (and later versions). It is not available in older
+  versions like Excel 2016, 2013, or 2010.

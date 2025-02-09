@@ -1,0 +1,13 @@
+Q. What is OFFSET function in Excel?
+
+
+- The OFFSET function returns a reference that is a specified number of rows and columns away
+  from a starting cell.
+
+  Syntax: OFFSET(reference, rows, cols, [height], [width])
+
+    reference → Starting cell.
+    rows → Number of rows to move (positive for down, negative for up).
+    cols → Number of columns to move (positive for right, negative for left).
+    [height] → (Optional) Number of rows to return.
+    [width] → (Optional) Number of columns to return.
