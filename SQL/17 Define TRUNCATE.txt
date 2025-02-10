@@ -1,0 +1,5 @@
+Q. Define TRUNCATE.
+
+
+- Truncate is used to remove all rows from a table, but not the table itself. Truncate is a 
+  non-reversible operation. Once truncated, the deleted data cannot be recovered using a rollback.

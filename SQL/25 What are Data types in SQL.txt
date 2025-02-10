@@ -1,0 +1,8 @@
+Q. What are Data types in SQL ?
+
+
+- Data types in SQL are used to specify the kind of data that can be stored in a column of a table.
+  They determine the format, range, and operations allowed on the data.
+
+        Some common data types include : CHAR, VARCHAR, INT, TINYINT, BIGINT, BIT, FLOAT, DOUBLE, 
+  BOOLEAN, DATE, YEAR etc... 

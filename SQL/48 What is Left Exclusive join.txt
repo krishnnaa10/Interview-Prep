@@ -1,0 +1,5 @@
+Q. What is Left Exclusive join ?
+
+
+- A "left exclusive join" return rows that exist only in the left table and have no matching rows
+  in the right table.

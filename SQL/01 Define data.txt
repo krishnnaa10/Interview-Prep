@@ -1,0 +1,4 @@
+Q. Define data.
+
+
+- Data is raw information that can be processed or analysed to gain insights or make decision.

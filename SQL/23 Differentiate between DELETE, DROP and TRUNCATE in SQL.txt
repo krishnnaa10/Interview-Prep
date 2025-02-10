@@ -1,0 +1,5 @@
+Q. Differentiate between DELETE, DROP and TRUNCATE in SQL.
+
+
+- `DELETE` removes specific rows from a table, `DROP` removes the entire table or database, and 
+  `TRUNCATE` removes all rows from a table but not the table itself. 

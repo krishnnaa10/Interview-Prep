@@ -1,0 +1,15 @@
+Q. What is join in SQL ?
+
+
+- Join is used to combine rows from two or more tables, based on a related column between them.
+
+  Types of join :
+
+    Inner join
+    Left join
+    Right join
+    Full join
+    Left exclusive join
+    Right exclusive join
+    Full exclusive join
+    Self join

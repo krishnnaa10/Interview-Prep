@@ -1,0 +1,5 @@
+Q. What is Right Exclusive join ?
+
+
+- A "right exclusive join" retrieves rows that exist only in the right table and have no matching rows
+  in the left table.

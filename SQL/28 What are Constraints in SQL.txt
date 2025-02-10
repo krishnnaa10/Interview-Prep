@@ -1,0 +1,7 @@
+Q. What is Constraints in SQL ?
+
+
+- Constraints are rules applied to columns or tables to ensure the accuracy and reliability of 
+  the data. 
+
+      i.e... NOT NULL, UNIQUE, PRIMARY KEY, FOREIGN KEY, CHECK and DEFAULT.

@@ -1,0 +1,6 @@
+Q. What is ROLLBACK in SQL ?
+
+
+- ROLLBACK is a part of the transaction control language (TCL). It is like pressing the "UNDO" button
+  in a word processor. It lets you reverse changes you've made to your database. For example, if you 
+  accidentally deleted some important data, you can use ROLLBACK to bring it back.

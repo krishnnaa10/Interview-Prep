@@ -1,0 +1,5 @@
+Q. Define DML (Data Manipulation Language).
+
+
+- DML commands are used to manipulate data within database tables. It includes `INSERT`, `UPDATE`
+  and `DELETE` commands.

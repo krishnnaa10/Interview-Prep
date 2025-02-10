@@ -1,0 +1,5 @@
+Q. Define DBMS.
+
+
+- A DBMS (Database Management System) is software that manages databases, providing tools for 
+  creating, storing, retrieving, and updating data.

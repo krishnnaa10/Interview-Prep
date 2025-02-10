@@ -1,0 +1,13 @@
+Q. Define ALTER statement in SQL.
+
+
+- The `ALTER` statement is used to modify the structure (structural changes) of an existing database object.
+
+  Common Uses of `ALTER`:
+
+    Add Column
+    Modify Column
+    Drop Column
+    Rename Column
+    Rename Table
+    Truncate Table

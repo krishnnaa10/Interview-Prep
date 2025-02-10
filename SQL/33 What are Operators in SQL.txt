@@ -1,0 +1,12 @@
+Q. What are Operators in SQL ?
+
+
+- Operators are symbols used to perform operations on data. They allow you to manipulate and evaluate 
+  expressions within your SQL queries.
+
+  Types of Operators:
+
+    Arithmetic Operators: +, -, *, /, %
+    Comparison Operators: =, <, >, !=, <=, >=
+    Logical Operators: AND, OR, NOT
+    Bitwise Operators: &, |, ^

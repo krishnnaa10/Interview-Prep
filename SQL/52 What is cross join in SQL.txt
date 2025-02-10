@@ -1,0 +1,6 @@
+Q. What is cross join in SQL ?
+
+
+- A cross join is also known as Cartesian join. It is a type of join that returns the Cartesian product 
+  of rows from two or more tables. It combines each row of one table with each row of another table,
+  resulting in a large result set with all possible combinations of rows. 

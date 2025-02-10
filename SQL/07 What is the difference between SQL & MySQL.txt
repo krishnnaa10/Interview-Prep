@@ -1,0 +1,8 @@
+Q. What is the difference between SQL & MySQL?
+
+
+- SQL is a language used to communicate with databases. and MySQL is a database management system (DBMS)
+  that uses SQL to store, manage, and retrieve data. 
+
+              Think of MySQL as a restaurant and SQL as the menu, you use SQL to place orders (queries),
+  and MySQL processes them to serve data.

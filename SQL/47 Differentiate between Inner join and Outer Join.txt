@@ -1,0 +1,5 @@
+Q. Differentiate between Inner join and Outer Join.
+
+
+- An Inner Join returns only the rows with matching values in both tables, while an Outer Join 
+  returns all rows from one table, with matching rows from the other table.

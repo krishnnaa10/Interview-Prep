@@ -1,0 +1,10 @@
+Q. Define comments in SQL.
+
+
+- Comments are used to explain code. They are ignored by the database engine, making them a useful
+  tool for improving code readability and maintainability.
+
+  There are two types of comments in SQL:
+
+   -Single-line comments: It start with a double hyphen (--).
+   -Multi-line comments: It start with a slash-asterisk (/*) and end with an asterisk-slash (*/).

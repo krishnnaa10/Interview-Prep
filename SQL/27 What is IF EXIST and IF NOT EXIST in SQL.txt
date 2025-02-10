@@ -1,0 +1,5 @@
+Q. What is IF EXIST and IF NOT EXIST in SQL ?
+
+
+- In SQL, IF EXISTS and IF NOT EXISTS statements are used to check the existence or non-existence
+  of database objects. They help prevent errors when creating or dropping objects.     

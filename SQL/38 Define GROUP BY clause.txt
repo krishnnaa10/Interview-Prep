@@ -1,0 +1,4 @@
+Q. Define GROUP BY clause in SQL.
+
+
+- The GROUP BY clause is used to group rows that have the same values in a specified columns.

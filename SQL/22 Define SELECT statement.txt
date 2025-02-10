@@ -1,0 +1,5 @@
+Q. Define SELECT statement.
+
+
+- The SELECT statement is used to retrieve data from database tables. It's one of the most 
+  fundamental and frequently used statement in SQL for reading and displaying data.

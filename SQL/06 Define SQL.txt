@@ -1,0 +1,7 @@
+Q. Define SQL.
+
+
+- SQL (Structured Query Language) is a programming language used to interact with relational
+  databases. It was firstly known as SEQUEL (Structured English Query Language).
+
+      It was developed by IBM in 1970s.

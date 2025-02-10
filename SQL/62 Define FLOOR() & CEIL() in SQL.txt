@@ -1,0 +1,5 @@
+Q. Define FLOOR() & CEIL() in SQL.
+
+
+- FLOOR(x) -> Rounds down to the nearest integer.
+  CEIL(x)  -> Rounds up to the nearest integer.

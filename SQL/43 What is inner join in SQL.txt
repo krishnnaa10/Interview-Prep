@@ -1,0 +1,4 @@
+Q. What is inner join in SQL ?
+
+
+- An INNER JOIN returns only the rows that have a match in both tables.

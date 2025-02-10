@@ -1,0 +1,4 @@
+Q. Define USE Command in SQL.
+
+
+- The `USE` Command is used to select a specific database to work with.

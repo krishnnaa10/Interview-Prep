@@ -1,0 +1,5 @@
+Q. What is view in SQL ?
+
+
+- View in SQL is a kind of virtual table. It can also has rows and columns like tables, but a view 
+  does not store data on the disk like a table.

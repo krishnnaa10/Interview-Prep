@@ -1,0 +1,4 @@
+Q. What is left join in SQL ?
+
+
+- A LEFT JOIN returns all records from the left table and the matched records from the right table.

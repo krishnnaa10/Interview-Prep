@@ -1,0 +1,5 @@
+Q. Define GRANT & REVOKE.
+
+
+- GRANT: Used to give permissions to users.
+  REVOKE: Used to remove permissions from users.

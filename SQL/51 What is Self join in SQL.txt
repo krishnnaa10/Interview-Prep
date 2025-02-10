@@ -1,0 +1,5 @@
+Q. What is Self join in SQL ?
+
+
+- It is a special type of join where a table is joined with itself. This is useful when you need 
+  to compare rows within the same table.

@@ -1,0 +1,4 @@
+Q. What is Right join in SQL ?
+
+
+- A RIGHT JOIN returns all records from the right table and the matched records from the left table.

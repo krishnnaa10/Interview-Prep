@@ -1,0 +1,8 @@
+Q. What is full join in SQL ?
+
+
+- Full join is the UNION of left join and right join. It returns all the rows when there is match 
+  in either the left table or the right table. 
+
+         If there is no match, the result will still include rows from both tables, but with NULL
+  values for columns from the non-matching table.

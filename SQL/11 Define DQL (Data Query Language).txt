@@ -1,0 +1,4 @@
+Q. Define DQL (Data Query Language).
+
+
+- DQL command is used to retrieve data from databases. The primary DQL command is `SELECT`.

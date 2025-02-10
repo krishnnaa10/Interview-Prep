@@ -1,0 +1,5 @@
+Q. Define INSERT statement.
+
+
+- The INSERT statement is used to add new rows of data to a table in a database. It can be used to 
+  insert one or multiple rows in a single operation.

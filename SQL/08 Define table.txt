@@ -1,0 +1,4 @@
+Q. Define table.
+
+
+- A table in SQL is a structured collection of data organized into rows and columns.

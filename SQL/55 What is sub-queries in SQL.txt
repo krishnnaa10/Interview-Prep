@@ -1,0 +1,7 @@
+Q. What is sub-queries in SQL ?
+
+
+- In SQL, a subquery can be simply defined as a query within another query. It is also known as inner
+  query or nested query. 
+
+     The outer query is called main query and inner query is called a subquery.

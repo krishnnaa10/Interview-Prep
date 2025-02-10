@@ -1,0 +1,5 @@
+Q. What is COMMIT in SQL ?
+
+
+- In SQL, a COMMIT statement is used to permanently save changes made to a database. Once a 
+  COMMIT is executed, the changes cannot be rolled back.

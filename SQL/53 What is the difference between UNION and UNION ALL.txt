@@ -1,0 +1,8 @@
+Q. What is the difference between UNION and UNION ALL ?
+ 
+
+- UNION and UNION ALL are SQL operators used to combine the result sets of two or more SELECT
+  statements. 
+
+            The main difference is The UNION operator selects only distinct values by default.
+  To allow duplicate values, we use UNION ALL.

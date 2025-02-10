@@ -1,0 +1,7 @@
+Q. define Non-Relational DBMS.
+
+
+- Non-Relational Database Management Systems are databases that do not follow the traditional 
+  relational model. They are designed to handle large datasets and unstructured data. 
+
+         It is also known as No-SQL.

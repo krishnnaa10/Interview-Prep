@@ -1,0 +1,4 @@
+Q. Define distinct in SQL.
+
+
+- Distinct in SQL is used to remove duplicate rows from a result set, returning only unique values.

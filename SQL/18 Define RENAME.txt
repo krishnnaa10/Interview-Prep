@@ -1,0 +1,4 @@
+Q. Define RENAME.
+
+
+- The `RENAME` command is used to rename a database object, such as a table or column, to a new name.

@@ -1,0 +1,5 @@
+Q. Define HAVING clause.
+
+
+- The HAVING clause is similar to where clause. It was added to SQL because The WHERE keyword 
+  cannot be used with aggregate functions.

@@ -1,0 +1,6 @@
+Q. What is Normalization?
+
+
+- It is a technique to reduce or remove redundancy from a table and improve data integrity.
+  
+     It follows a set of rules called normal forms (NF): 1NF, 2NF, 3NF, 4NF & 5NF.

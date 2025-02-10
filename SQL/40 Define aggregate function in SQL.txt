@@ -1,0 +1,6 @@
+Q. Define aggregate function in SQL.
+
+
+- An aggregate function in SQL operates on a group of rows and returns a single value. 
+
+     ie... SUM(), AVG(), COUNT(), MIN(), and MAX().

@@ -1,0 +1,5 @@
+Q. Define foreign key.
+
+
+- A foreign key is a field in a database table that references a primary key in another table, 
+  creating a relationship between the two tables.

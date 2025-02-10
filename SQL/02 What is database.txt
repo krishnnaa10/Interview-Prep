@@ -1,0 +1,4 @@
+Q. What is database ?
+
+
+- Database is a collection of data in a format that can be easily accessed.

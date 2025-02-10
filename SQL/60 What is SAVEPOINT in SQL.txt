@@ -1,0 +1,5 @@
+Q. What is SAVEPOINT in SQL.
+
+
+- A SAVEPOINT in SQL is a point within a transaction that allows you to roll back to a specific
+  point in case of an error or issue, rather than rolling back the entire transaction.

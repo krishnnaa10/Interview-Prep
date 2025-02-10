@@ -1,0 +1,6 @@
+Q. Define SET TRANSACTION.
+
+
+- In SQL, SET TRANSACTION is a command used to control how a transaction behaves. It helps define
+  Whether changes are permanent (committed) or temporary (rolled back) and How much one transaction
+  can see changes made by another transaction.

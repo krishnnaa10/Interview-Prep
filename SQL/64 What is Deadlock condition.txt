@@ -1,0 +1,4 @@
+Q. What is Deadlock condition?
+
+
+- Waiting of happening of an event that should not gonna happen is deadlock condition.

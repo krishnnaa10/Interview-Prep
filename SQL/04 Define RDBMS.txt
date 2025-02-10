@@ -1,0 +1,5 @@
+Q. define RDBMS.
+
+
+- A RDBMS (Relational Database Management System) is a software application that manages relational
+  databases, which store data in a structured format. We can use SQL to work with RDBMS.

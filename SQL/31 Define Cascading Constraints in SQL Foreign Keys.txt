@@ -1,0 +1,10 @@
+Q. Define Cascading Constraints in SQL Foreign Keys.
+
+
+- Cascading provides a way to automatically update or delete related rows in a child table when 
+  changes are made to the parent table.
+
+  Types of Cascading Constraints:
+
+    ON UPDATE CASCADE
+    ON DELETE CASCADE

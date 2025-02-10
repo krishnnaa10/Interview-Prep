@@ -1,0 +1,4 @@
+Q. What is Full Exclusive join in SQL ?
+
+
+- A `full exclusive join` returns rows from both tables where there is no match between them.

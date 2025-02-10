@@ -1,0 +1,5 @@
+Q. Define CREATE Statement in SQL.
+
+
+- In SQL, `CREATE` Statement is used to create a new database object, such as tables, databases,
+  indexes, or views.

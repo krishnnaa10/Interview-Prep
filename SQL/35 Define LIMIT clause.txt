@@ -1,0 +1,4 @@
+Q. Define LIMIT clause.
+
+
+- The LIMIT clause is used to specify the maximum number of rows to return in a query result.

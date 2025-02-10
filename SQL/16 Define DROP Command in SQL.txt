@@ -1,0 +1,5 @@
+Q. Define DROP Command in SQL.
+
+
+- The `DROP` command is used to delete entire database object, such as a table, view, or database,
+  along with all of its data.

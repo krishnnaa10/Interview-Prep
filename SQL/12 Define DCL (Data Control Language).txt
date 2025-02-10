@@ -1,0 +1,5 @@
+Q. Define DCL (Data Control Language).
+
+
+- DCL statements are used to manage user access and permissions in SQL databases. They control 
+  who can access and modify data within the database. The primary DCL statements are GRANT & REVOKE.

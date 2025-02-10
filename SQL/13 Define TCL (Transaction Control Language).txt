@@ -1,0 +1,6 @@
+Q. Define TCL (Transaction Control Language).
+
+
+- TCL consists of commands that are used to manage transactions in a database. The main TCL 
+  commands are: `COMMIT`, `SET TRANSACTION`, `ROLLBACK`, `SAVEPOINT`.
+

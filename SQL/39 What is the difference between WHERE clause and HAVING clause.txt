@@ -1,0 +1,6 @@
+Q. What is the difference between WHERE clause and HAVING clause ?
+
+
+- The WHERE clause filters individual rows before grouping, while the HAVING clause filters 
+  groups after aggregating data, with the key difference being that WHERE cannot be used with 
+  aggregate functions, whereas HAVING can.

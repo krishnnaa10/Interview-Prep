@@ -1,0 +1,7 @@
+Q. What is Signed and Unsigned in SQL ?
+
+
+- Signed and unsigned refer to the range of values that a numeric data type can hold. 
+
+    Signed - Represent both positive and negative numbers.
+    Unsigned - Represent only positive numbers.

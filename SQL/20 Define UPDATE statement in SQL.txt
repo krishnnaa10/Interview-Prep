@@ -1,0 +1,4 @@
+Q. Define UPDATE statement in SQL.
+
+
+- The UPDATE statement is used to modify the existing records in a table.

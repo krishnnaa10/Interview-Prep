@@ -1,0 +1,4 @@
+Q. Can you tell me the order of execution in SQL.
+
+
+- The SQL execution order is: FROM → WHERE → GROUP BY → HAVING → SELECT → ORDER BY → LIMIT.

@@ -1,0 +1,5 @@
+Q. Define DDL (Data Definition Language).
+
+
+- Data Definition Language (DDL) statements are used to create, modify, and delete database objects.
+  It includes `CREATE`, `ALTER`, `RENAME`, `TRUNCATE`, `DROP` commands.

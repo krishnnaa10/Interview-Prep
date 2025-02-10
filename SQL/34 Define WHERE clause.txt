@@ -1,0 +1,4 @@
+Q. Define WHERE clause.
+
+
+- The WHERE clause allows us to filter data and select only the rows that satisfy the specified conditions.
