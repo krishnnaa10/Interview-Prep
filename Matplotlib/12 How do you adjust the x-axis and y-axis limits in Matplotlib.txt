@@ -1,0 +1,5 @@
+Q. How do you adjust the x-axis and y-axis limits in Matplotlib?
+
+
+- plt.xlim(0, 10)
+  plt.ylim(0, 20)

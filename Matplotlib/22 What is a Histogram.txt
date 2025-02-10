@@ -1,0 +1,6 @@
+Q. What is a Histogram?
+
+
+- Histogram is used to represent the distribution of numerical data. It is similar to a bar graph,
+  but instead of comparing categories, a histogram groups data into continuous intervals (bins) and
+  shows how frequently data falls into each range.

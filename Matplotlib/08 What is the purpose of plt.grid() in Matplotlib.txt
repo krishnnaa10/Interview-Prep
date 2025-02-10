@@ -1,0 +1,4 @@
+Q. What is the purpose of plt.grid() in Matplotlib?
+
+
+- It is used to add grid lines to a plot.

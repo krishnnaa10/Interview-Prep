@@ -1,0 +1,5 @@
+Q. What is the role of plt.savefig()?
+
+
+- The savefig() function in Matplotlib is used to save the current figure to a file in 
+  various formats such as PNG, JPG, PDF, SVG, etc..

@@ -1,0 +1,7 @@
+Q. How do you add a legend to a Matplotlib plot?
+
+
+- Add a label inside plt.plot() and call plt.legend().
+
+  plt.plot(x, y, label="Line A", color='blue')
+  plt.legend()

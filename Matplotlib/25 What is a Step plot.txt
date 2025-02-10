@@ -1,0 +1,5 @@
+Q. What is a Step plot?
+
+
+- Step plot are a type of line plot where the data points are connected by horizontal and vertical
+  lines instead of smooth curve, creating a staircase-like effect.

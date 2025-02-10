@@ -1,0 +1,5 @@
+Q. What is plt.xticks() and plt.yticks() used for?
+
+
+- xticks() : It customize the numbers and labels along x-axis.
+  yticks() : It customize the numbers and labels along y-axis.

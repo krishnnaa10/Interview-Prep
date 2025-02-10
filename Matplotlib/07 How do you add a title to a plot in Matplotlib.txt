@@ -1,0 +1,5 @@
+Q. How do you add a title to a plot in Matplotlib?
+
+
+- Use the plt.title() function to add a title to your plot.
+

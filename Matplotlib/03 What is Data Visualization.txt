@@ -1,0 +1,15 @@
+Q. What is Data Visualization?
+
+
+- Data visualization is the graphical representation of information and data. It uses visual elements
+  like charts, graphs, and maps to make complex data more understandable and accessible. 
+
+         By turning raw data into visual stories, data visualization helps people to identify patterns,
+  trends, and outliers that might be difficult to spot in a spreadsheet or other text-based format.
+
+  Key benefits of Data Visualization :
+
+  -> Improved understanding
+  -> Enhanced decision-making
+  -> Effective communication
+  -> Storytelling

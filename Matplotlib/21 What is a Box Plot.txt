@@ -1,0 +1,13 @@
+Q. What is a Box Plot?
+
+
+- A box plot (also known as a box-and-whisker plot) is a statistical visualization that displays the 
+  distribution of a dataset based on five key summary statistics:
+
+     Minimum – The smallest data point (excluding outliers).
+     First Quartile (Q1) – 25th percentile (bottom 25% of data).
+     Median (Q2) – 50th percentile (middle value of the dataset).
+     Third Quartile (Q3) – 75th percentile (top 25% of data).
+     Maximum – The largest data point (excluding outliers).
+
+  Box plots also highlight outliers, making them useful for identifying variations and trends in data.

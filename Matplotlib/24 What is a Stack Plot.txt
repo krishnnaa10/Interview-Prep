@@ -1,0 +1,6 @@
+Q. What is a Stack Plot?
+
+
+- A stack plot (also known as an area chart) is a type of graph that shows multiple datasets
+  stacked on top of each other to represent part-to-whole contributions. It is useful for 
+  visualizing cumulative data trends.

@@ -1,0 +1,5 @@
+Q. What is the difference between plt.text() and plt.annotate()?
+
+
+- plt.text() -> simply places text at a fixed position in the plot.
+  plt.annotate() -> is more advanced, allowing arrows to point to a specific location.

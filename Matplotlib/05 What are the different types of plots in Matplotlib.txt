@@ -1,0 +1,7 @@
+Q. What are the different types of plots in Matplotlib?
+
+
+- Matplotlib supports various plots, including:
+
+  Line Plot, Scatter Plot, Bar Plot, Histogram, Box Plot, Pie Chart, Heatmap, Stem Plot,
+  Stack Plot, Step Plot, Fill between Plot etc..

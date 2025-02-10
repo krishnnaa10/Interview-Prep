@@ -1,0 +1,5 @@
+Q. What is a bar graph?
+
+
+- A bar graph is used to represent categorical data using rectangular bars. The length or 
+  height of each bar is proportional to the value it represents.

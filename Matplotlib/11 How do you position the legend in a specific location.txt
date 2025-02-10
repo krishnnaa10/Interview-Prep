@@ -1,0 +1,6 @@
+Q. How do you position the legend in a specific location?
+
+
+- Use the loc parameter in plt.legend().
+
+  ie.. plt.legend(loc="upper left")

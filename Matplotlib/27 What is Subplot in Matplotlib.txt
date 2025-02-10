@@ -1,0 +1,7 @@
+Q. What is Subplot in Matplotlib?
+
+
+- Subplots allow you to create multiple plots within a single figure, making it easier to 
+  visualize and compare different datasets. 
+
+      Matplotlib provides the plt.subplot() function to achieve this.

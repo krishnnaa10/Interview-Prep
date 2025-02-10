@@ -1,0 +1,5 @@
+Q. How do you install and import Matplotlib?
+
+
+- Install ->  pip install matplotlib
+  Import  ->  import matplotlib.pyplot as plt

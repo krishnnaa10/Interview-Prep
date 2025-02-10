@@ -1,0 +1,5 @@
+Q. What is a pie chart?
+
+
+- A pie chart is a circular chart divided into sectors, each representing a category or group of 
+  data, and its size is proportional to the percentage or fraction of the total data.

@@ -1,0 +1,6 @@
+Q. What is a Donut Chart?
+
+
+- A donut chart is a variation of a pie chart, where the center is removed to create a hollow
+  circle (resembling a donut). It serves the same purpose as a pie chart representing parts of
+  a whole, but improves readability by reducing clutter in the center.

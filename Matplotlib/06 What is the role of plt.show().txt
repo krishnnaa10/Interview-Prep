@@ -1,0 +1,4 @@
+Q. What is the role of plt.show()?
+
+
+- It displays the plot on the screen.

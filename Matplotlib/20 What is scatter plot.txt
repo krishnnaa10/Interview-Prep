@@ -1,0 +1,5 @@
+Q. What is scatter plot?
+
+
+- A Scatter plot is a type of plot that displays the relationship between two sets of data as
+  points on a grid.

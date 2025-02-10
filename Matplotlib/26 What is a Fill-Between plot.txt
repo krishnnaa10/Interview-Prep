@@ -1,0 +1,5 @@
+Q. What is a Fill-Between plot?
+ 
+
+- Fill Between plot is a type of plot that fills the area between two horizontal curves using
+  shading.

@@ -1,0 +1,7 @@
+Q. Can you tell me some data visualization tools?
+
+
+- Tools for Data Visualization :
+
+  Software : Tableau, Power BI, Excel, Python libraries (Matplotlib, Seaborn, Plotly, ggplot).
+  Online platforms : Google Data Studio, Infogram, Canva.

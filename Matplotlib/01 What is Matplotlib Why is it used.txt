@@ -1,0 +1,11 @@
+Q. What is Matplotlib? Why is it used?
+
+
+- Matplotlib is a Python library for creating static, animated, and interactive visualizations. It 
+  was introduced by John Hunter in year 2002.
+
+  It is primarily used for:
+
+  -> Plotting 2D and 3D graphs
+  -> Customizing graphs with labels, legends, and colors
+  -> Saving visualizations in multiple formats (PNG, PDF, SVG, etc.)

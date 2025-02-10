@@ -1,0 +1,7 @@
+Q. What is a linear plot?
+
+
+- A linear plot is a graphical representation of a linear equation or relationship between two
+  variables. It is typically displayed as a straight line on a coordinate plane.
+
+     In Matplotlib, plt.plot() is used to create a linear plot.

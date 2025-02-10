@@ -1,0 +1,7 @@
+Q. How do you add labels to the x-axis and y-axis in Matplotlib?
+
+
+- Use plt.xlabel() and plt.ylabel().
+
+  plt.xlabel("X-axis Label")
+  plt.ylabel("Y-axis Label")

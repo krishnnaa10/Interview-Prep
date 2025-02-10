@@ -1,0 +1,5 @@
+Q. What is a Stem Plot?
+
+
+- A stem plot (or lollipop plot) is similar to a bar chart but represents data with thin lines and
+  markers, making it useful for highlighting individual values.
